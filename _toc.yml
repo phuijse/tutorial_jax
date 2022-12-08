@@ -1,0 +1,8 @@
+format: jb-book
+root: README
+chapters:
+  - file: tutorial/jax
+  - file: tutorial/flax
+  - file: tutorial/astronomy
+  - file: tutorial/vae_astronomy
+     
