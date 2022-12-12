@@ -2,7 +2,7 @@
 title: Entrenando redes neuronales profundas con JAX
 author: Pablo Huijse Heise
 copyright: "2022"
-#logo: logo.png
+logo: tutorial/images/MLP.png
 only_build_toc_files: true
 
 execute:
